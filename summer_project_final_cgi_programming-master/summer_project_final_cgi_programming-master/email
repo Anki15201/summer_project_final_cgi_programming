@@ -43,6 +43,7 @@ subject = 'Summer internship Jaipur Email'
 message = 'Are you coming in Jaipur.'
 recipient_list = ['receiver_email1', 'receiver_email2','receiver_email3']
 
+
 # Create the email
 msg = MIMEMultipart()
 msg['From'] = sender_email
