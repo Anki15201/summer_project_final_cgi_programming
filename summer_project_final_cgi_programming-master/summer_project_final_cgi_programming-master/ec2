@@ -14,7 +14,6 @@ if sys.argv[1]=="ls":
 ro' --query 'Reservations[].Instances[].InstanceId[]'")
 
     print(out)
-
 if sys.argv[1]=="-d":
     out =s.getoutput("aws ec2 terminate-instances --instance-ids "+ sys.argv[2])
     print("Successfully Deleted:")
