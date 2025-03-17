@@ -1,4 +1,4 @@
-# summer_project_final_cgi_programming
+# the_summer_project_final_cgi_programming
 
 enter commad for s3 and ec2 because they are our own command:
 ec2 : 
