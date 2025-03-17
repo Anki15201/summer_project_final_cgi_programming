@@ -4,6 +4,7 @@ import subprocess
 import cgi
 
 print("content-type: text/html")
+
 print()
 
 form = cgi.FieldStorage();
